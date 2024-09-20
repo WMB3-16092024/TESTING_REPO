@@ -49,7 +49,7 @@ jobs:
           echo "User ID: $user_id"
 
           # Constructing the JSON payload for the API call
-          api_url="https://be-webmaster-portal-dev-backend.onrender.com/graphql"
+          api_url="https://webmaster-portal-5lf2.onrender.com/graphql"
 
           # Log the API URL and constructed data for debugging
           echo "API URL: $api_url"
