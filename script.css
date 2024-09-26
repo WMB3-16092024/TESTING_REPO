@@ -1,0 +1,75 @@
+body {
+    background-image: url("./grid-image.png");
+    background-size: cover;
+}
+
+.nav-bar {
+    width: 700px;
+    border: 2px solid rgb(168, 168, 168);
+    background-color: rgb(44, 44, 44);
+    padding: 15px 30px;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 320px;
+}
+
+.nav-items {
+    margin-inline: 10px;
+    color: rgb(209, 209, 209);
+    font-size: 20px;
+}
+
+.signUp-button {
+    color: white;
+    width: 50px;
+    background-color: red;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 300px;
+}
+
+
+.page-title-and-icon-container {
+    margin-top: 150px;
+    margin-left: 430px;
+    border: 2px dashed black;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    background: linear-gradient(150deg, #DDA301, #FFE54A);
+}
+
+.page-icon-box {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid rgb(179, 179, 179);
+    margin-left: 235px;
+    background: linear-gradient(135deg, rgb(175, 175, 175), red);
+    
+}
+
+.page-icon {
+    width: 70px;
+    margin-left: -10px;
+    margin-top: 13px;
+}
+
+.page-title-container {
+    margin-top: 20px;
+
+}
+
+.page-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(49, 49, 49);
+    margin-left: 200px;
+}
+
+.description {
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(49, 49, 49);
+}
