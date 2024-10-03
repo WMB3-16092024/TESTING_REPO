@@ -1,0 +1,51 @@
+.main-container-design-1 {
+    border: 2px solid lightgreen;
+    width: 300px;
+}
+
+.header-container {
+    padding: 5px;
+    border: 2px solid rgb(255, 56, 56);
+
+}
+
+.base-container {
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-title {
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+}
+
+.header-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+
+.content-container {
+    padding: 5px;
+    border: 2px solid rgb(255, 56, 56);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.content-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.content-title {
+    width: 240px;
+    height: 30px;
+    background-color: aqua;
+}
