@@ -1,0 +1,102 @@
+.main-container {
+    background-color: #F1F2F4;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.nav-bar{
+     background-color:  white;
+     display: flex;
+     padding: 10px 20px;
+     /* align-items: ; */
+     align-items: center;
+     justify-content: space-between;
+      
+}
+
+.search-bar{
+    /* border: 2px solid black;  */
+    width: 538.25px;
+    height: 40px;
+    background-color: #F1F2F4;
+    border-radius: 10px;
+}
+
+.nav-right-section{
+    /* border: 2px solid black; */
+    display: flex;
+    width: 400px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.login{
+    /* border: 1px solid black; */
+      padding: 5px 20px;
+}
+
+.cart{
+    /* border: 1px solid black; */
+      /* width: 100px;
+      height: 30px; */
+      padding: 5px 20px;
+}
+
+.seller{
+    /* border: 1px solid black; */
+    /* width: 100px;
+    height: 30px; */
+    padding: 5px 20px;
+}
+
+.nav-dot{
+    /* border: 1px solid black; */
+    padding: 5px 20px;
+}
+
+.grocery-container{
+    margin-top: 10px ;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  
+}
+
+.grocery-box{
+    /* border: 2px solid black; */
+    width: 80px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.grocery-title{
+    margin-top: -10px;
+}
+
+.footer{
+     background-color:  rgb(39, 39, 39);
+     height:  400px;
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly ;
+}
+
+
+
+.footer-box{
+    color :white;
+    font-weight: 600;
+    border: 2px solid white;
+    
+
+}
+
+.footer-head{
+    color: rgb(83, 83, 83)
+}
